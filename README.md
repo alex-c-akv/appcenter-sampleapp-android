@@ -36,4 +36,4 @@ For more information on how to do so, visit our docs here: [Build time environme
 
 And if you want to try it out, you can fork this repository and add your App Secret by adding the APPCENTER_APP_SECRET environment variable in hte App Center Build configuration.
 
-updated 2022-08-05
+*updated 2022-08-05*
